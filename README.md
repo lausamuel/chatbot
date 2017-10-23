@@ -1,9 +1,9 @@
-# chatbot
+## chatbot
 A Python-based chatbot project for our ALL Project.
 
-## Some important information:
+# Some important information:
 
-# Git commands in terminal
+## Git commands in terminal
 git clone https://github.com/lausamuel/chatbot.git
 (download the repo)
 
